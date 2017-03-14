@@ -1,0 +1,9 @@
+// size must be 32x32
+size(32, 32);
+
+// draw something
+ellipse(width/2, height/2, width-1, height-1);
+
+// save it as an image file.
+// TODO: change the XYZ below to your initials 
+saveFrame("XYZ-favicon.png");
