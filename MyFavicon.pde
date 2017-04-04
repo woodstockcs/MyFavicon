@@ -1,5 +1,5 @@
-// size must be 32x32
-size(32, 32);
+// size must be 320x320
+size(320, 320);
 
 // draw something
 ellipse(width/2, height/2, width-1, height-1);
